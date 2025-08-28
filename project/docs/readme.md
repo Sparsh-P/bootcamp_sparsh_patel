@@ -37,7 +37,7 @@ The project is organized into three main files:
 
 ---
 
-## 📊 Methodology
+##  Methodology
 
 ### Step 1: Data Cleaning
 - Pulled stock data using Kaggle API.
@@ -84,7 +84,7 @@ We defined and computed the following:
 
 ---
 
-## 🏆 Final Results
+##  Final Results
 
 The **Top 10 Stocks** identified are:
 
@@ -105,7 +105,7 @@ These stocks were selected because they consistently appeared in top portfolios 
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project produced several key plots:
 
