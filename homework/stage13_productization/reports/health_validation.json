@@ -1,0 +1,9 @@
+{
+  "features": [
+    "implied_volatility",
+    "moneyness",
+    "vol_time"
+  ],
+  "model_loaded": true,
+  "status": "healthy"
+}
